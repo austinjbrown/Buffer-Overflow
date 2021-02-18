@@ -1,0 +1,2 @@
+addi s0,a0,0x12
+lw sp,0x14(s0)
